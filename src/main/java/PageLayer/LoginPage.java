@@ -33,7 +33,9 @@ public class LoginPage extends BaseClass {
 		login.click();
 	}
 	
-	
+	public String getTitle{
+		return driver.getTitle();
+	}
 	
 	
 	
